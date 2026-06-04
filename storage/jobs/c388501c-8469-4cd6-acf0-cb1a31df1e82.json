@@ -1,0 +1,145 @@
+{
+  "id": "c388501c-8469-4cd6-acf0-cb1a31df1e82",
+  "status": "completed",
+  "status_message": "Processing complete",
+  "error": null,
+  "file": {
+    "filename": "test_sample.txt",
+    "content_type": "text/plain",
+    "size_bytes": 464,
+    "is_video": false
+  },
+  "companion_text": "",
+  "analysis": {
+    "transcript": "Recipe and notes from test_sample.txt",
+    "visual_description": "",
+    "summary": "Recipe-focused content covering cocktail construction, ingredients, and technique.",
+    "entities": {
+      "people": [
+        "Pritesh Mody"
+      ],
+      "brands": [],
+      "restaurants": [],
+      "hotels": [],
+      "cocktails": [
+        "Signature Cocktail"
+      ],
+      "ingredients": [
+        "tequila",
+        "pineapple",
+        "lime"
+      ],
+      "locations": [
+        "London"
+      ]
+    },
+    "topics": [
+      "Recipe",
+      "Mixology",
+      "Technique"
+    ],
+    "intent": {
+      "recipe": true,
+      "storytelling": false,
+      "education": true,
+      "case_study": false,
+      "opinion": false
+    }
+  },
+  "classification": {
+    "pillar": "CRAFT",
+    "pillar_confidence": 88,
+    "pillar_scores": {
+      "PROOF": 45,
+      "AUTHORITY": 52,
+      "CRAFT": 88
+    },
+    "format": "Behind The Build",
+    "format_confidence": 89,
+    "format_scores": [
+      {
+        "format": "Behind The Build",
+        "confidence": 89,
+        "description": "Recipe development reveal"
+      },
+      {
+        "format": "Hot Tip Drop",
+        "confidence": 67,
+        "description": "Quick bartender insight"
+      },
+      {
+        "format": "Drink Like A Bartender",
+        "confidence": 74,
+        "description": "Pro pour technique"
+      }
+    ]
+  },
+  "assets": {
+    "reel": {
+      "hook": "Three things bartenders do that home bartenders skip. Number 2 is the one.",
+      "body": "Quick to-camera technique demo with jump cuts. Three concrete fixes. End on a question.",
+      "cta": "Which tip surprised you most — 1, 2, or 3?"
+    },
+    "caption": {
+      "hook": "The version of this cocktail that actually works — from a bartender who's built menus for the world's best restaurants.",
+      "story": "Recipe-focused content covering cocktail construction, ingredients, and technique.",
+      "recipe": "See recipe block in caption.",
+      "cta": "Would you try this?",
+      "hashtags": [
+        "#cocktails",
+        "#mixology",
+        "#priteshmody",
+        "#craftcocktails"
+      ],
+      "tags": [
+        "@priteshmody"
+      ]
+    },
+    "carousel": {
+      "slide_1": "How to make a really bloody good [drink]",
+      "slide_2": "Why most home versions fail",
+      "slide_3": "What you need",
+      "slide_4": "The build",
+      "slide_5": "Save this recipe ↓"
+    },
+    "stories": [
+      {
+        "type": "poll",
+        "content": "Would you drink this?"
+      },
+      {
+        "type": "question_sticker",
+        "content": "What's your favourite tequila?"
+      },
+      {
+        "type": "behind_the_scenes",
+        "content": "POV: building the cocktail from archive footage."
+      }
+    ]
+  },
+  "recommendation": {
+    "platform": "Instagram",
+    "content_type": "Reel",
+    "recommended_day": "Monday",
+    "recommended_time": "12:00 PM",
+    "series": "",
+    "reason": "Craft and recipe content drives saves when published as carousels or reels with recipe in caption.",
+    "confidence": 85,
+    "clearance_flag": "",
+    "follow_up_slots": [
+      {
+        "day": "Saturday",
+        "time": "11:00 AM",
+        "note": "Carousel follow-up"
+      },
+      {
+        "day": "Monday",
+        "time": "8:00 AM",
+        "note": "Stories recap"
+      }
+    ]
+  },
+  "created_at": "2026-06-03T11:18:33.323876+00:00",
+  "updated_at": "2026-06-03T11:18:33.327696+00:00",
+  "processing_seconds": 0.0
+}

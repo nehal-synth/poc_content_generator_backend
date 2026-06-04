@@ -1,0 +1,122 @@
+{
+  "positioning": "The only UK cocktail authority who builds menus for the world's best restaurants AND translates them for two million Sunday Brunch viewers.",
+  "pillars": [
+    {
+      "id": "PROOF",
+      "share": 30,
+      "description": "Show the work. Celebrity collaborations, client projects, restaurant consultancy, hospitality partnerships.",
+      "examples": ["Menu Behind The Menu", "Drinks With Fun People", "Coca-Cola MIX activations", "on-set content"]
+    },
+    {
+      "id": "AUTHORITY",
+      "share": 30,
+      "description": "Own the take. Contrarian opinions, red flags, industry truths, the way bartenders actually do it.",
+      "examples": ["Hot Tip Drop", "Red Flag Reel", "Pour & Polarise", "Before You Run Off"]
+    },
+    {
+      "id": "CRAFT",
+      "share": 40,
+      "description": "Be useful. Recipes in caption, how-tos, ingredient explainers, pairing logic, ranking lists.",
+      "examples": ["Drink Like A Bartender", "Behind The Build", "Best Bars", "Pair This Dish"]
+    }
+  ],
+  "formats": [
+    {
+      "id": "Drinks With Fun People",
+      "pillar": "PROOF",
+      "media": "Reel",
+      "length": "60-90s",
+      "hook_template": "[Famous person] once told me…",
+      "description": "Celebrity interviews and anecdotes with matching cocktail recipe."
+    },
+    {
+      "id": "Menu Behind The Menu",
+      "pillar": "PROOF",
+      "media": "Reel",
+      "length": "30-60s",
+      "hook_template": "I made a cocktail for [BRAND]. Here's what they made me change.",
+      "description": "Restaurant and brand consultancy projects with constraint-based hooks."
+    },
+    {
+      "id": "Hot Tip Drop",
+      "pillar": "AUTHORITY",
+      "media": "Reel",
+      "length": "12-25s",
+      "hook_template": "Three things bartenders do that home bartenders skip.",
+      "description": "Quick actionable bartender tips."
+    },
+    {
+      "id": "Red Flag Reel",
+      "pillar": "AUTHORITY",
+      "media": "Reel",
+      "length": "20-35s",
+      "hook_template": "Three red flags on a bar's cocktail menu.",
+      "description": "Common bar and cocktail mistakes."
+    },
+    {
+      "id": "Pour & Polarise",
+      "pillar": "AUTHORITY",
+      "media": "Reel",
+      "length": "25-40s",
+      "hook_template": "Stop ordering [X]. Order [Y]. (Three reasons.)",
+      "description": "Contrarian drink opinions designed for DM shares."
+    },
+    {
+      "id": "Drink Like A Bartender",
+      "pillar": "CRAFT",
+      "media": "Carousel",
+      "length": "6-10 slides",
+      "hook_template": "5 things bartenders do that nobody at home does.",
+      "description": "Professional techniques carousel."
+    },
+    {
+      "id": "Pair This Dish",
+      "pillar": "CRAFT",
+      "media": "Reel",
+      "length": "25-40s",
+      "hook_template": "A chef gave me 20 minutes to design a cocktail for this dish.",
+      "description": "Food and cocktail pairing content."
+    },
+    {
+      "id": "Best Bars",
+      "pillar": "CRAFT",
+      "media": "Carousel",
+      "length": "10-14 slides",
+      "hook_template": "I ranked [City]'s hotel bars. Drink at #3 and you'll thank me.",
+      "description": "Venue recommendations and rankings."
+    },
+    {
+      "id": "Behind The Build",
+      "pillar": "CRAFT",
+      "media": "Carousel",
+      "length": "8-12 slides",
+      "hook_template": "How to make a really bloody good [drink]. The version that actually works.",
+      "description": "Step-by-step recipe development."
+    },
+    {
+      "id": "Before You Run Off",
+      "pillar": "AUTHORITY",
+      "media": "Reel",
+      "length": "15-25s",
+      "hook_template": "Wait — before you scroll, you need to know this about your [drink].",
+      "description": "Pattern-interrupt quick takeaways."
+    }
+  ],
+  "caption_rules": {
+    "recipe_in_caption": true,
+    "hashtag_count": "3-5",
+    "hashtag_pool": {
+      "category": ["#cocktailrecipe", "#craftcocktails", "#mixology", "#cocktailsofinstagram"],
+      "intent": ["#cocktailathome", "#cocktailbar", "#ordersomethingbetter", "#bartendertips"],
+      "brand": ["#priteshmody"]
+    },
+    "cta": "One specific question — binary or short answer. Never generic 'comment below'.",
+    "tagging": "Tag every name-checked brand, bar, chef, person, and mixer."
+  },
+  "reel_rules": {
+    "hook_seconds": 1.5,
+    "length_sweet_spot": "30-90s",
+    "dm_share_framing": "Every reel must answer: who would send this to whom, and why?",
+    "subtitles_required": true
+  }
+}

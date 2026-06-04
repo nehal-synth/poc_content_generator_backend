@@ -1,0 +1,171 @@
+{
+  "id": "2c0efa4a-e9a4-43d7-9f9a-21db49a2d0fc",
+  "status": "completed",
+  "status_message": "Processing complete",
+  "error": null,
+  "file": {
+    "filename": "Giorgio cocktail  Camera A  close up.mov",
+    "content_type": "video/quicktime",
+    "size_bytes": 231155436,
+    "is_video": true
+  },
+  "companion_text": "",
+  "analysis": {
+    "transcript": "Ac mae hynny ar gyfer y post heddiw. Ie, dw i'n mynd i'w gosod ar y diwrnod diwethaf, oherwydd bydd y rhesip Tom yn mynd i'r live heddiw. Ie, ia. Ac yna dyna dw i'n mynd i'w gosod ar y diwrnod diwethaf a dweud, fel, yn dod yn hir. Rwy'n credu fy mod i'n diwrnod sylfaenol yn fy sylfaen. Dyna'r sgenjel. Felly, sut rydych chi'n ei gynllunio? Felly, mae gennym Tom heddiw. Dyma'n debyg ei fod yn mynd i'r live ar y diwethaf. Ie. Dw i'n cael, dwi'n gwybod, Jack Charlton o Remy Cointreau. Felly, rydyn ni wedi ffilmio hwnnw ychydig flynedd yn ôl. Dw i'n cael ddau comediannau yn dod i mewn hefyd, felly dyna'n ddiddorol iawn y diwethaf. Jack Charlton, yna Jodie Kidd. Dyna, mae hi'n ystod y flwyddyn nesaf. Ac yna rydyn ni'n dechrau, rydych chi'n rhan o'r diwethaf, mewn gwirionedd. Ie, ie. Felly, mae'r diwethaf yn mynd i'r live, efallai, ar y diwethaf. Dw i'n golygu bod Tom Aske yn un o'r bobl sy'n gwneud i mi fwrio'r mwyaf erioed. Yn gwirionedd. Mae'n ddiddorol iawn. Ie. Ond, er enghraifft, pan mae'n siarad mewn gwirionedd, mae'n gwneud i mi fwrio. Mae'n gwneud i chi fwrio, o'n i? Ie, rydw i'n edrych arnyn nhw ac rydw i'n fwrio. Felly, diwethaf y flwyddyn diwethaf, dwi ddim yn teimlo, rydyn ni'n mynd i Berlin, Tom Aske. Ie, ie, rydw i'n cofio hynny, rydw i'n cofio hynny. Ac roeddem yn fwrio'n anodd iawn, i ddweud bod rhaid i mi ddweud gwbl y car. Roeddwn i'n teimlo'n ddweud bod rhaid i mi ddweud gwbl, oherwydd roedd y sgwyr. Roeddwn i'n y barn autodd. MaewnCH terraff. Perffetiant. Ti'n mynd atir. rydw i'n gweud bod hi i gynnydd, ond os beth ti eisiau gwneud, gofio'ddu cywir i sóloi. Rydw i'n gwybod bryd fyddwn i'n gwbod, dwi'n dod at ei gwylio. Rydw i'n gwybod mai dylai hi benodol tap ydanfod 120 unit o ffram ytol.",
+    "visual_description": "",
+    "summary": "The content revolves around a discussion about upcoming social media posts and collaborations involving Pritesh Mody. The conversation mentions various personalities and events, including Tom Aske, Jack Charlton from Remy Cointreau, and Jodie Kidd. It highlights a humorous anecdote involving Tom Aske, emphasizing his comedic influence during a trip to Berlin. The dialogue suggests a focus on planning and scheduling content releases, with a specific mention of a live event featuring Tom Aske. The content is informal and conversational, reflecting on past experiences and future plans for content creation and collaboration.",
+    "entities": {
+      "people": [
+        "Tom Aske",
+        "Jack Charlton",
+        "Jodie Kidd"
+      ],
+      "brands": [
+        "Remy Cointreau"
+      ],
+      "restaurants": [],
+      "hotels": [],
+      "cocktails": [],
+      "ingredients": [],
+      "locations": [
+        "Berlin"
+      ]
+    },
+    "topics": [
+      "content planning",
+      "celebrity collaboration"
+    ],
+    "intent": {
+      "recipe": false,
+      "storytelling": true,
+      "education": false,
+      "case_study": false,
+      "opinion": false
+    }
+  },
+  "classification": {
+    "pillar": "PROOF",
+    "pillar_confidence": 85,
+    "pillar_scores": {
+      "PROOF": 85,
+      "AUTHORITY": 60,
+      "CRAFT": 40
+    },
+    "format": "Drinks With Fun People",
+    "format_confidence": 90,
+    "format_scores": [
+      {
+        "format": "Drinks With Fun People",
+        "confidence": 90,
+        "description": "The content focuses on celebrity collaboration and anecdotes, fitting the Drinks With Fun People format."
+      },
+      {
+        "format": "Menu Behind The Menu",
+        "confidence": 70,
+        "description": "Mentions of planning and collaborations suggest behind-the-scenes insights, but lacks specific constraint-based hooks."
+      },
+      {
+        "format": "Before You Run Off",
+        "confidence": 50,
+        "description": "The conversational nature could fit quick takeaways, but the content is more focused on anecdotes."
+      },
+      {
+        "format": "Red Flag Reel",
+        "confidence": 40,
+        "description": "The content does not focus on mistakes or red flags, making this format less applicable."
+      },
+      {
+        "format": "Pour & Polarise",
+        "confidence": 35,
+        "description": "There is no contrarian opinion presented in the content."
+      },
+      {
+        "format": "Hot Tip Drop",
+        "confidence": 30,
+        "description": "The content lacks quick actionable tips, focusing more on anecdotes and planning."
+      },
+      {
+        "format": "Pair This Dish",
+        "confidence": 25,
+        "description": "No food and cocktail pairing content is present."
+      },
+      {
+        "format": "Drink Like A Bartender",
+        "confidence": 20,
+        "description": "The content does not provide professional techniques or tips."
+      },
+      {
+        "format": "Behind The Build",
+        "confidence": 15,
+        "description": "There is no step-by-step recipe development discussed."
+      },
+      {
+        "format": "Best Bars",
+        "confidence": 10,
+        "description": "The content does not include venue recommendations or rankings."
+      }
+    ]
+  },
+  "assets": {
+    "reel": {
+      "hook": "Tom Aske once had us all in stitches in Berlin...",
+      "body": "Join us as we chat about upcoming collaborations with some amazing personalities like @TomAske, @JackCharlton from @RemyCointreau, and the fabulous @JodieKidd. Tom's comedic genius had us laughing so hard during our Berlin trip that we nearly had to pull over the car! 😂 Dive into our content planning and get a sneak peek of what's to come.",
+      "cta": "Send this to a friend who loves a good laugh with their cocktails! 🍸"
+    },
+    "caption": {
+      "hook": "Ever laughed so hard you had to pull over the car? That's what happened with Tom Aske in Berlin!",
+      "story": "Planning content with @TomAske, @JackCharlton from @RemyCointreau, and @JodieKidd is always a blast. Tom's humor is infectious, and our Berlin trip was unforgettable. Stay tuned for more fun collaborations and live events!",
+      "recipe": "Giorgio Cocktail:\n- 50ml Gin\n- 25ml Elderflower Liqueur\n- 15ml Fresh Lemon Juice\n- Top with Soda Water\nShake the first three ingredients with ice and strain into a glass. Top with soda water and garnish with a lemon twist. Cheers! 🍋",
+      "cta": "Have you ever had a cocktail experience that made you laugh out loud? Yes or No?",
+      "hashtags": [
+        "#cocktailrecipe",
+        "#cocktailsofinstagram",
+        "#priteshmody"
+      ],
+      "tags": [
+        "@TomAske",
+        "@JackCharlton",
+        "@RemyCointreau",
+        "@JodieKidd"
+      ]
+    },
+    "carousel": {
+      "slide_1": "🤔 Planning content with @TomAske is never dull!",
+      "slide_2": "🎬 Upcoming collabs with @JackCharlton from @RemyCointreau",
+      "slide_3": "😂 That time in Berlin with Tom Aske... unforgettable!",
+      "slide_4": "✨ Exciting events featuring @JodieKidd",
+      "slide_5": "📅 Stay tuned for more fun and laughter!"
+    },
+    "stories": [
+      {
+        "type": "poll",
+        "content": "Have you ever laughed so hard during a cocktail experience that you had to stop what you were doing? 😂 Yes/No"
+      }
+    ]
+  },
+  "recommendation": {
+    "platform": "Instagram",
+    "content_type": "Reel",
+    "recommended_day": "Thursday",
+    "recommended_time": "8:00 PM",
+    "series": "Drinks With Fun People · #03",
+    "reason": "Thursday evenings are optimal for engaging audiences looking for weekend plans and entertainment. Featuring personalities like Tom Aske and Jodie Kidd in a humorous anecdote will attract viewers interested in celebrity stories and cocktail culture, aligning with the PROOF pillar.",
+    "confidence": 85,
+    "clearance_flag": "CLEAR: guest team",
+    "follow_up_slots": [
+      {
+        "day": "Saturday",
+        "time": "11:00 AM",
+        "note": "Re-share with a focus on the live event with Tom Aske."
+      },
+      {
+        "day": "Monday",
+        "time": "3:00 PM",
+        "note": "Post a behind-the-scenes Story of the Berlin trip with Tom Aske."
+      }
+    ]
+  },
+  "created_at": "2026-06-03T13:09:18.099586+00:00",
+  "updated_at": "2026-06-03T13:10:32.332850+00:00",
+  "processing_seconds": 73.92
+}

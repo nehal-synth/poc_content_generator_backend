@@ -1,0 +1,20 @@
+{
+  "id": "de647e19-4267-4484-8e69-d4e265248b6f",
+  "status": "failed",
+  "status_message": "Processing failed",
+  "error": "[Errno 2] No such file or directory: 'ffmpeg'",
+  "file": {
+    "filename": "Cucumber & Jasmine Collins.mp4",
+    "content_type": "video/mp4",
+    "size_bytes": 131675334,
+    "is_video": true
+  },
+  "companion_text": "",
+  "analysis": null,
+  "classification": null,
+  "assets": null,
+  "recommendation": null,
+  "created_at": "2026-06-03T12:07:01.260088+00:00",
+  "updated_at": "2026-06-03T12:07:01.395876+00:00",
+  "processing_seconds": 0.01
+}

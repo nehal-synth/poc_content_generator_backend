@@ -1,0 +1,166 @@
+{
+  "id": "d01ac837-03d6-4ef2-85ce-4a1b90247892",
+  "status": "completed",
+  "status_message": "Processing complete",
+  "error": null,
+  "file": {
+    "filename": "Cucumber & Jasmine Collins.mp4",
+    "content_type": "video/mp4",
+    "size_bytes": 131675334,
+    "is_video": true
+  },
+  "companion_text": "",
+  "analysis": {
+    "transcript": "So Margot Robbie's got a gin, pop of salt, got some jasmine tea bags, because apparently she likes, back in the day, she used to actually take tea bags out in Clapham and infuse her own tea bags into spirits to make them taste nicer. Check it out if you don't believe me. Cool, that's in there. So 50 mils of our infused gin, 15 of sugar syrup, a cucumber, like a cucumber ribbon, something like that. There you go. And we've got a cucumber and jasmine collins, cheers. Oh, that's like super fresh. Aromatics from the jasmine tea, who doesn't love a collins?",
+    "visual_description": "",
+    "summary": "In this engaging clip, Pritesh Mody shares a cocktail recipe inspired by Margot Robbie's unique approach to infusing spirits with tea bags. The video highlights a Cucumber & Jasmine Collins, a refreshing cocktail that combines infused gin, sugar syrup, and cucumber ribbons. The narrative includes an anecdote about Margot Robbie's past habit of using tea bags to enhance the flavor of spirits, adding a personal touch to the cocktail creation process. The final product is described as aromatic and fresh, with the jasmine tea providing a distinctive flavor profile to the classic Collins cocktail.",
+    "entities": {
+      "people": [
+        "Margot Robbie"
+      ],
+      "brands": [],
+      "restaurants": [],
+      "hotels": [],
+      "cocktails": [
+        "Cucumber & Jasmine Collins"
+      ],
+      "ingredients": [
+        "gin",
+        "jasmine tea bags",
+        "sugar syrup",
+        "cucumber"
+      ],
+      "locations": [
+        "Clapham"
+      ]
+    },
+    "topics": [
+      "celebrity-inspired cocktails",
+      "infused spirits"
+    ],
+    "intent": {
+      "recipe": true,
+      "storytelling": true,
+      "education": false,
+      "case_study": false,
+      "opinion": false
+    }
+  },
+  "classification": {
+    "pillar": "PROOF",
+    "pillar_confidence": 85,
+    "pillar_scores": {
+      "PROOF": 85,
+      "AUTHORITY": 60,
+      "CRAFT": 75
+    },
+    "format": "Drinks With Fun People",
+    "format_confidence": 90,
+    "format_scores": [
+      {
+        "format": "Drinks With Fun People",
+        "confidence": 90,
+        "description": "Features a celebrity anecdote and a matching cocktail recipe."
+      },
+      {
+        "format": "Pair This Dish",
+        "confidence": 70,
+        "description": "Focuses on pairing flavors, though not with a specific dish."
+      },
+      {
+        "format": "Behind The Build",
+        "confidence": 65,
+        "description": "Includes step-by-step recipe development but lacks detailed breakdown."
+      },
+      {
+        "format": "Hot Tip Drop",
+        "confidence": 55,
+        "description": "Provides a tip on infusing spirits, but not in a quick format."
+      },
+      {
+        "format": "Menu Behind The Menu",
+        "confidence": 50,
+        "description": "Does not focus on consultancy or brand constraints."
+      },
+      {
+        "format": "Pour & Polarise",
+        "confidence": 45,
+        "description": "Lacks a contrarian opinion or direct comparison."
+      },
+      {
+        "format": "Red Flag Reel",
+        "confidence": 40,
+        "description": "Does not address common mistakes or red flags."
+      },
+      {
+        "format": "Drink Like A Bartender",
+        "confidence": 35,
+        "description": "Touches on professional techniques but not in a carousel format."
+      },
+      {
+        "format": "Best Bars",
+        "confidence": 30,
+        "description": "Unrelated to venue recommendations or rankings."
+      },
+      {
+        "format": "Before You Run Off",
+        "confidence": 25,
+        "description": "Not a pattern-interrupt or quick takeaway format."
+      }
+    ]
+  },
+  "assets": {
+    "reel": {
+      "hook": "Margot Robbie once told me about her tea bag trick...",
+      "body": "So Margot Robbie's got a gin, pop of salt, got some jasmine tea bags, because apparently she used to take tea bags out in Clapham and infuse her own spirits. Cool, that's in there. So 50 mils of our infused gin, 15 of sugar syrup, a cucumber ribbon, something like that. And we've got a cucumber and jasmine collins, cheers. Oh, that's like super fresh. Aromatics from the jasmine tea, who doesn't love a collins?",
+      "cta": "Send this to a friend who loves Margot Robbie or a refreshing cocktail twist!"
+    },
+    "caption": {
+      "hook": "Ever tried infusing gin with tea like Margot Robbie?",
+      "story": "Margot Robbie once shared her unique hack of using tea bags to infuse spirits. Inspired by her creativity, I've crafted a Cucumber & Jasmine Collins that's as refreshing as it sounds.",
+      "recipe": "Ingredients:\n- 50ml gin infused with jasmine tea bags\n- 15ml sugar syrup\n- Cucumber ribbons\n\nInstructions:\n1. Infuse gin with jasmine tea bags.\n2. Mix 50ml infused gin with 15ml sugar syrup.\n3. Garnish with cucumber ribbons.\n4. Enjoy the aromatic freshness!",
+      "cta": "Would you try this infusion trick at home?",
+      "hashtags": [
+        "#cocktailrecipe",
+        "#mixology",
+        "#priteshmody"
+      ],
+      "tags": [
+        "@margotrobbie"
+      ]
+    },
+    "carousel": {
+      "slide_1": "Margot Robbie's Cocktail Hack: Tea Bags in Gin!",
+      "slide_2": "Step 1: Infuse gin with jasmine tea bags.",
+      "slide_3": "Step 2: Mix 50ml infused gin with 15ml sugar syrup.",
+      "slide_4": "Step 3: Add cucumber ribbons for a fresh twist.",
+      "slide_5": "Result: A Cucumber & Jasmine Collins that's aromatic and refreshing!"
+    },
+    "stories": [
+      {
+        "type": "poll",
+        "content": "Ever infused your spirits with tea bags? Yes or No?"
+      }
+    ]
+  },
+  "recommendation": {
+    "platform": "Instagram",
+    "content_type": "Reel",
+    "recommended_day": "Thursday",
+    "recommended_time": "7:00 PM",
+    "series": "Drinks With Fun People · #01",
+    "reason": "Thursday evenings are ideal for engaging content as users are gearing up for the weekend and looking for inspiration. The PROOF pillar emphasizes authority through celebrity collaborations, making this a prime time to showcase a unique cocktail recipe inspired by Margot Robbie. This content is both entertaining and informative, encouraging shares among cocktail enthusiasts and fans of Margot Robbie.",
+    "confidence": 90,
+    "clearance_flag": "CLEAR: guest team",
+    "follow_up_slots": [
+      {
+        "day": "Saturday",
+        "time": "12:00 PM",
+        "note": "Re-share as a story with a poll: 'Would you try the Cucumber & Jasmine Collins?' Yes/No"
+      }
+    ]
+  },
+  "created_at": "2026-06-03T12:18:50.420050+00:00",
+  "updated_at": "2026-06-03T12:19:19.662322+00:00",
+  "processing_seconds": 29.02
+}

@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local uploads and job data (CRITICAL: Do not upload raw videos)
+storage/uploads/
+stogage/jobs/
+*.mp4
+*.mov
+*.mp3
+*.wav
+
+# Environment variables
+.env

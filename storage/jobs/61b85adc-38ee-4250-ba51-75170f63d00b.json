@@ -1,0 +1,170 @@
+{
+  "id": "61b85adc-38ee-4250-ba51-75170f63d00b",
+  "status": "completed",
+  "status_message": "Processing complete",
+  "error": null,
+  "file": {
+    "filename": "Giorgio cocktail  Camera A  close up.mov",
+    "content_type": "video/quicktime",
+    "size_bytes": 231155436,
+    "is_video": true
+  },
+  "companion_text": "",
+  "analysis": {
+    "transcript": "Ac mae hynny ar gyfer y post heddiw. Ie, dw i'n mynd i'w gosod ar y diwrnod diwethaf, oherwydd bydd y rhesip Tom yn mynd i'r live heddiw. Ie, ia. Ac yna dyna dw i'n mynd i'w gosod ar y diwrnod diwethaf a dweud, fel, yn dod yn hir. Rwy'n credu fy mod i'n diwrnod sylfaenol yn fy sylfaen. Dyna'r sgenjel. Felly, sut rydych chi'n ei gynllunio? Felly, mae gennym Tom heddiw. Dyma'n debyg ei fod yn mynd i'r live ar y diwethaf. Ie. Dw i'n cael, dwi'n gwybod, Jack Charlton o Remy Cointreau. Felly, rydyn ni wedi ffilmio hwnnw ychydig flynedd yn ôl. Dw i'n cael ddau comediannau yn dod i mewn hefyd, felly dyna'n ddiddorol iawn y diwethaf. Jack Charlton, yna Jodie Kidd. Dyna, mae hi'n ystod y flwyddyn nesaf. Ac yna rydyn ni'n dechrau, rydych chi'n rhan o'r diwethaf, mewn gwirionedd. Ie, ie. Felly, mae'r diwethaf yn mynd i'r live, efallai, ar y diwethaf. Dw i'n golygu bod Tom Aske yn un o'r bobl sy'n gwneud i mi fwrio'r mwyaf erioed. Yn gwirionedd. Mae'n ddiddorol iawn. Ie. Ond, er enghraifft, pan mae'n siarad mewn gwirionedd, mae'n gwneud i mi fwrio. Mae'n gwneud i chi fwrio, o'n i? Ie, rydw i'n edrych arnyn nhw ac rydw i'n fwrio. Felly, diwethaf y flwyddyn diwethaf, dwi ddim yn teimlo, rydyn ni'n mynd i Berlin, Tom Aske. Ie, ie, rydw i'n cofio hynny. Rydw i'n cofio hynny. Ac roeddwn i'n gwrthi mor fawr, roeddwn i'n rhaid i mi ddod o'r car. Roeddwn i'n rhaid i ni ddod o'r car, oherwydd roedd gen i hysbysu, roeddwn i'n y barn autodd, mynd, wyt ti'n gwybod, yn ffwrdd. Ac roeddwn i'n dweud, roeddwn i'n gwneud gwirioneddau. Ac roeddwn i'n dweud, roeddwn i'n rhaid i ni ddod o'r car, roeddwn i'n hysbysu. Fi'n gwbod. Dwi'n gwybod bod o forn gneddol, ond os teimlwch... Be? Rwy'n gofio i gael gwestiyn. Dwi'n gwybod bod ffyrdd gyda 11牵, ond... Rwy'n gwybod bod 11 cwd cyn 1-2ug wire.",
+    "visual_description": "In the video key frames, a bartender is meticulously preparing cocktails at a well-organized bar. The setting features a tiled bar top with a black rubber mat, where two elegant, vintage-style cocktail glasses are placed. A large mixing glass filled with ice is prominently positioned, and the bartender is seen handling a clear bottle, likely containing a spirit, as he prepares to pour it into the mixing glass.\n\nThe bartender then adds a few dashes of what appears to be bitters from a small bottle with a dropper. A long bar spoon is used to stir the mixture in the ice-filled mixing glass, ensuring the ingredients are well-chilled and combined. The stirring process is deliberate, indicating a focus on achieving the perfect dilution and temperature for the cocktail.\n\nAfter stirring, the bartender uses a strainer to pour the chilled mixture into the two waiting cocktail glasses. The pour is smooth and precise, demonstrating skill and attention to detail. Beside the glasses, a jigger and a small bottle labeled 'aromatic' are visible, suggesting the use of precise measurements and aromatic elements in the cocktail preparation.\n\nThe final frame shows the bartender placing the prepared cocktails on the bar, ready to be served. The setting, tools, and methodical approach highlight a classic cocktail-making process, emphasizing precision and craftsmanship in the art of mixology.",
+    "summary": "The audio focuses on a conversation about scheduling and anecdotes involving various personalities, including Tom Aske and Jack Charlton. The dialogue is informal and touches on past events and future plans for content releases. In contrast, the visual content showcases a bartender meticulously preparing cocktails, emphasizing the craft and precision involved in mixology. The bartender uses a variety of tools and techniques, such as stirring with a bar spoon and straining the mixture into cocktail glasses, highlighting the art of cocktail-making. This divergence between audio and visual content suggests that the video could be repurposed to focus on either storytelling or cocktail craftsmanship, depending on the intended audience and platform. For Instagram, the visual content aligns well with the CRAFT pillar, focusing on the cocktail-making process, while the audio could be used to add a personal touch or behind-the-scenes narrative.",
+    "entities": {
+      "people": [
+        "Tom Aske",
+        "Jack Charlton",
+        "Jodie Kidd"
+      ],
+      "brands": [
+        "Remy Cointreau"
+      ],
+      "restaurants": [],
+      "hotels": [],
+      "cocktails": [],
+      "ingredients": [
+        "bitters"
+      ],
+      "locations": [
+        "Berlin"
+      ]
+    },
+    "topics": [
+      "storytelling",
+      "cocktail preparation"
+    ],
+    "intent": {
+      "recipe": false,
+      "storytelling": true,
+      "education": false,
+      "case_study": false,
+      "opinion": false
+    },
+    "audio_visual_divergence": true,
+    "audio_focus_summary": "The transcript is a conversation about scheduling content and anecdotes involving personalities like Tom Aske and Jack Charlton. It includes informal discussions about past events, such as a trip to Berlin, and plans for future content releases.",
+    "visual_focus_summary": "The on-screen action shows a bartender preparing cocktails with precision, using tools like a mixing glass, bar spoon, and strainer. The bartender demonstrates skill in mixing and pouring the cocktail, highlighting the craftsmanship involved in the process.",
+    "repurposing_guidance": "Use the audio for storytelling and personal anecdotes to engage viewers with behind-the-scenes insights. Use the visuals to focus on the cocktail preparation process, emphasizing the craftsmanship and techniques involved. Avoid inventing ingredients not shown in the visual content."
+  },
+  "classification": {
+    "pillar": "CRAFT",
+    "pillar_confidence": 85,
+    "pillar_scores": {
+      "PROOF": 60,
+      "AUTHORITY": 50,
+      "CRAFT": 85
+    },
+    "format": "Drink Like A Bartender",
+    "format_confidence": 80,
+    "format_scores": [
+      {
+        "format": "Drink Like A Bartender",
+        "confidence": 80,
+        "description": "The visual content focuses on the precise techniques and craftsmanship of cocktail preparation, aligning well with professional techniques."
+      },
+      {
+        "format": "Drinks With Fun People",
+        "confidence": 75,
+        "description": "The audio includes anecdotes involving personalities, which could be used for storytelling."
+      },
+      {
+        "format": "Behind The Build",
+        "confidence": 70,
+        "description": "The step-by-step cocktail preparation visually shown could fit a recipe development format."
+      },
+      {
+        "format": "Pair This Dish",
+        "confidence": 60,
+        "description": "While not directly related to food pairing, the craftsmanship could be adapted to pair cocktails with dishes."
+      },
+      {
+        "format": "Menu Behind The Menu",
+        "confidence": 55,
+        "description": "The content could be repurposed to discuss constraints or changes in cocktail preparation, though not the primary focus here."
+      },
+      {
+        "format": "Hot Tip Drop",
+        "confidence": 50,
+        "description": "The visual focus on techniques could be adapted into quick tips, but the format is more detailed."
+      },
+      {
+        "format": "Red Flag Reel",
+        "confidence": 45,
+        "description": "The content doesn't focus on mistakes, but could be adapted to highlight common errors in cocktail making."
+      },
+      {
+        "format": "Pour & Polarise",
+        "confidence": 40,
+        "description": "The content isn't centered on contrarian opinions, but could be adapted to challenge common cocktail practices."
+      },
+      {
+        "format": "Best Bars",
+        "confidence": 35,
+        "description": "The setting could be used to highlight a venue, but the focus is on cocktail preparation."
+      },
+      {
+        "format": "Before You Run Off",
+        "confidence": 30,
+        "description": "The content isn't designed for quick takeaways, but could be adapted to highlight a key cocktail tip."
+      }
+    ]
+  },
+  "assets": {
+    "reel": {
+      "hook": "Wait — before you scroll, you need to know this about your cocktail prep.",
+      "body": "Ever wondered how bartenders achieve that perfect cocktail balance? Watch as we reveal the secrets behind the art of cocktail-making. From the precise stir to the smooth pour, every step is crucial. 🍸✨",
+      "cta": "Send this to your cocktail-loving friend who needs to level up their home bar skills! #priteshmody"
+    },
+    "caption": {
+      "hook": "Master the art of cocktail-making with these bartender secrets.",
+      "story": "In our latest session, we caught up with Tom Aske and Jack Charlton, sharing laughs and stories from our Berlin adventures. But behind the scenes, it's all about precision and craft. Here's how you can bring that same finesse to your home bar.",
+      "recipe": "",
+      "cta": "Do you think a precise stir makes a difference in cocktail taste?",
+      "hashtags": [
+        "#craftcocktails",
+        "#mixology",
+        "#priteshmody"
+      ],
+      "tags": [
+        "@TomAske",
+        "@RemyCointreau"
+      ]
+    },
+    "carousel": {
+      "slide_1": "5 things bartenders do that nobody at home does.",
+      "slide_2": "1. Stirring with precision: It's all about the perfect dilution.",
+      "slide_3": "2. Using a bar spoon: Not just any spoon will do!",
+      "slide_4": "3. Straining like a pro: Smooth and precise pours.",
+      "slide_5": "4. Measuring with a jigger: Consistency is key. #priteshmody"
+    },
+    "stories": [
+      {
+        "type": "poll",
+        "content": "Do you think a precise stir makes a difference in cocktail taste? Yes/No"
+      }
+    ]
+  },
+  "recommendation": {
+    "platform": "Instagram",
+    "content_type": "Carousel",
+    "recommended_day": "Thursday",
+    "recommended_time": "7:00 PM",
+    "series": "Drink Like A Bartender · #01",
+    "reason": "The CRAFT pillar is best suited for showcasing the meticulous cocktail preparation process, which aligns perfectly with the visual content of the bartender's techniques. A Thursday evening release targets users gearing up for the weekend, making them more receptive to learning new cocktail skills for their own gatherings.",
+    "confidence": 85,
+    "clearance_flag": "",
+    "follow_up_slots": [
+      {
+        "day": "Saturday",
+        "time": "11:00 AM",
+        "note": "Engage with comments and answer any questions about the techniques shown."
+      }
+    ]
+  },
+  "created_at": "2026-06-03T13:28:58.133192+00:00",
+  "updated_at": "2026-06-03T13:29:59.392624+00:00",
+  "processing_seconds": 61.1
+}
