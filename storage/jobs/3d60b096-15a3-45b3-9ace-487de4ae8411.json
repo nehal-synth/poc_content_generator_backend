@@ -1,0 +1,180 @@
+{
+  "id": "3d60b096-15a3-45b3-9ace-487de4ae8411",
+  "status": "completed",
+  "status_message": "Processing complete",
+  "error": null,
+  "file": {
+    "filename": "Giorgio cocktail  Camera A  close up.mov",
+    "content_type": "video/quicktime",
+    "size_bytes": 231155436,
+    "is_video": true
+  },
+  "companion_text": "",
+  "analysis": {
+    "transcript": "And that's for today's post? Yeah, I'll stick it on tomorrow, because Tom's recipe will go live today, and then this I'll just put tomorrow and say like coming soon. I think I'm a day ahead of my head on the schedule. So how do you plan it? So we've got Tom today, this will probably go live mid-November. Okay. I've got—let me get my schedule—I've got, you know, Jack Charlton from Rémy Cointreau. So we filmed that a few weeks ago. I've got two comedians coming up as well. So that's really funny this weekend—Jack Charlton, then Jodie Kidd. She's next week, and then we start the—you're part of season two, basically. Okay. So season two goes live probably mid-November. I mean, Tom Aske is one of the people who makes me laugh the most. Honestly, it's so fun. Yeah. Like, but even when he speaks seriously, he makes me laugh. He makes you laugh, right? Yeah, I look at him and laugh. So last year, I don't know if you know, we drove to Berlin. Yeah, I remember that. I remember that we laughed so hard that I had to stop the car. We just had to stop because there were like tears on the Autobahn, you know, going mad speeds, and it's just like we were just cracking jokes, and it's just like we just had to stop. Just tears down. But you did something—you stopped by in a like station eating sandwich. Oh, we'll stop, we did, because we went to—you got pretty big. Yeah. Yeah, we got pissed, really pissed. We went to Bruges, then we stayed a night in Düsseldorf, which is amazing, and then obviously to Berlin. I mean, I know it's for pre-touch, but if you wanna give it a go.",
+    "visual_description": "In the video key frames, a bartender is seen preparing cocktails with precision and style. The setting is a well-equipped bar, featuring a variety of bar tools and ingredients. On the bar counter, there is a large mixing glass filled with ice, two elegant cocktail glasses, and a jigger. The bartender, dressed in a dark suit, begins by reaching for a bottle of clear spirit, which he pours into the mixing glass.\n\nNext, the bartender adds a few drops of a liquid from a small bottle using a dropper, suggesting the addition of bitters or a similar concentrated ingredient. He then uses a long bar spoon to stir the mixture in the glass, ensuring the ingredients are well combined and chilled. The stirring is methodical, indicating a focus on achieving the perfect dilution and temperature for the cocktail.\n\nAfter stirring, the bartender strains the mixture into the two waiting cocktail glasses. The pour is smooth and controlled, filling each glass to an appropriate level. The final frame shows the bartender setting aside the mixing glass and jigger, with the completed cocktails ready to be served. The bar's ambiance, with visible shelves of bottles and ambient lighting, adds to the sophisticated atmosphere of the scene.",
+    "summary": "The video features a bartender preparing cocktails with precision and style in a sophisticated bar setting. Meanwhile, the audio captures a conversation about scheduling content for a cocktail series, mentioning various personalities and past experiences. The dialogue includes anecdotes about a road trip to Berlin and upcoming appearances by notable figures in the cocktail world. The visual content focuses on the cocktail-making process, showing the bartender's methodical approach to crafting the drinks. The audio and visuals tell different stories, with the audio providing context and narrative while the visuals focus on the craft of cocktail preparation.",
+    "entities": {
+      "people": [
+        "Tom Aske",
+        "Jack Charlton",
+        "Jodie Kidd"
+      ],
+      "brands": [
+        "Rémy Cointreau"
+      ],
+      "restaurants": [],
+      "hotels": [],
+      "cocktails": [],
+      "ingredients": [
+        "clear spirit",
+        "bitters"
+      ],
+      "locations": [
+        "Berlin",
+        "Bruges",
+        "Düsseldorf"
+      ]
+    },
+    "topics": [
+      "cocktail preparation",
+      "content scheduling",
+      "anecdotes"
+    ],
+    "intent": {
+      "recipe": false,
+      "storytelling": true,
+      "education": false,
+      "case_study": false,
+      "opinion": false
+    },
+    "audio_visual_divergence": true,
+    "audio_focus_summary": "The transcript features a conversation about scheduling content for a cocktail series, mentioning personalities like Tom Aske, Jack Charlton from Rémy Cointreau, and Jodie Kidd. It includes anecdotes about a road trip to Berlin and the fun experiences shared during the trip.",
+    "visual_focus_summary": "The on-screen action shows a bartender preparing cocktails with precision in a well-equipped bar. The bartender pours a clear spirit into a mixing glass, adds bitters, stirs the mixture, and strains it into cocktail glasses, highlighting the craft of cocktail-making.",
+    "repurposing_guidance": "Use the dialogue for storytelling and to highlight upcoming content and personalities. Use the on-screen action to focus on the cocktail-making process, showcasing the technique and style without inventing ingredients."
+  },
+  "classification": {
+    "pillar": "CRAFT",
+    "pillar_confidence": 85,
+    "pillar_scores": {
+      "PROOF": 70,
+      "AUTHORITY": 60,
+      "CRAFT": 85
+    },
+    "format": "Drink Like A Bartender",
+    "format_confidence": 90,
+    "format_scores": [
+      {
+        "format": "Drink Like A Bartender",
+        "confidence": 90,
+        "description": "The video focuses on the precise cocktail-making process, highlighting professional techniques."
+      },
+      {
+        "format": "Drinks With Fun People",
+        "confidence": 75,
+        "description": "Audio includes anecdotes about personalities, fitting the interview and storytelling aspect."
+      },
+      {
+        "format": "Behind The Build",
+        "confidence": 70,
+        "description": "The step-by-step cocktail preparation aligns with recipe development."
+      },
+      {
+        "format": "Menu Behind The Menu",
+        "confidence": 60,
+        "description": "Could fit if the focus was on consultancy or brand collaboration, but it's not explicit."
+      },
+      {
+        "format": "Pair This Dish",
+        "confidence": 55,
+        "description": "Focus is not on food pairing, but could be adapted if paired with a dish."
+      },
+      {
+        "format": "Best Bars",
+        "confidence": 50,
+        "description": "Setting is a sophisticated bar, but not focused on venue recommendations."
+      },
+      {
+        "format": "Pour & Polarise",
+        "confidence": 45,
+        "description": "No contrarian opinions are presented in the content."
+      },
+      {
+        "format": "Red Flag Reel",
+        "confidence": 40,
+        "description": "Content does not focus on mistakes or red flags."
+      },
+      {
+        "format": "Hot Tip Drop",
+        "confidence": 35,
+        "description": "No quick actionable tips are provided in the content."
+      },
+      {
+        "format": "Before You Run Off",
+        "confidence": 30,
+        "description": "Content lacks a pattern-interrupt takeaway."
+      }
+    ]
+  },
+  "assets": {
+    "reel": {
+      "hook": "Ever wondered how bartenders make cocktails so perfectly?",
+      "body": "Watch as this bartender crafts a cocktail with precision and style. From the perfect pour to the artful stir, it's all about technique. Meanwhile, we're gearing up for some exciting content with personalities like @tom_aske, Jack Charlton from @remycointreau, and @jodiekidd. Stay tuned!",
+      "cta": "Send this to your cocktail enthusiast friend who loves mastering the perfect stir."
+    },
+    "caption": {
+      "hook": "5 things bartenders do that nobody at home does.",
+      "story": "While planning our cocktail series with legends like @tom_aske, we reminisced about a hilarious road trip to Berlin. But today, let's focus on the craft. Watch as a bartender demonstrates the perfect cocktail-making technique. Notice the precision in every step, from the pour to the stir. This is how you elevate your home cocktail game.",
+      "recipe": "",
+      "cta": "Gin or Vodka Martini?",
+      "hashtags": [
+        "#craftcocktails",
+        "#mixology",
+        "#priteshmody"
+      ],
+      "tags": [
+        "@tom_aske",
+        "@remycointreau",
+        "@jodiekidd"
+      ]
+    },
+    "carousel": {
+      "slide_1": "Bartenders know the secret to a perfect cocktail: precision.",
+      "slide_2": "Start with a quality clear spirit and a few drops of bitters.",
+      "slide_3": "Stir methodically for the ideal dilution and chill.",
+      "slide_4": "Strain smoothly into elegant glasses for a flawless finish.",
+      "slide_5": "Try these techniques at home and taste the difference."
+    },
+    "stories": [
+      {
+        "type": "poll",
+        "content": "Do you prefer your cocktails shaken or stirred? 🍸"
+      }
+    ]
+  },
+  "recommendation": {
+    "platform": "Instagram",
+    "content_type": "Carousel",
+    "recommended_day": "Monday",
+    "recommended_time": "7:00 PM",
+    "series": "Drink Like A Bartender · #03",
+    "reason": "Releasing this content on Monday at 7:00 PM aligns with the PM Drinks Weekly Rhythm, capturing an audience eager to start their week with new cocktail insights. The 'Drink Like A Bartender' series focuses on professional techniques, making it ideal for engaging viewers with a mix of storytelling and craft, setting the tone for the week's content.",
+    "confidence": 90,
+    "clearance_flag": "",
+    "follow_up_slots": [
+      {
+        "day": "Wednesday",
+        "time": "7:00 PM",
+        "note": "Follow up with a 'Behind The Build' carousel to dive deeper into the techniques showcased."
+      },
+      {
+        "day": "Friday",
+        "time": "7:00 PM",
+        "note": "Conclude the week with a 'Pair This Dish' reel, tying the techniques back to practical applications."
+      }
+    ]
+  },
+  "created_at": "2026-06-03T18:52:02.489730+00:00",
+  "updated_at": "2026-06-03T18:52:50.330452+00:00",
+  "processing_seconds": 47.58
+}

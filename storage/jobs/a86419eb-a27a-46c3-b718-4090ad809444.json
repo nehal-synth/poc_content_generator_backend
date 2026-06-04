@@ -1,0 +1,120 @@
+{
+  "id": "a86419eb-a27a-46c3-b718-4090ad809444",
+  "status": "failed",
+  "status_message": "Processing failed",
+  "error": "Connection error.",
+  "file": {
+    "filename": "Giorgio cocktail  Camera A  close up.mov",
+    "content_type": "video/quicktime",
+    "size_bytes": 231155436,
+    "is_video": true
+  },
+  "companion_text": "",
+  "analysis": {
+    "transcript": "And that's for today's post? Yeah, I'll stick it on tomorrow, because Tom's recipe will go live today, and then this I'll just put tomorrow and say like coming soon. I think I'm a day ahead of my head on the schedule. So how do you plan it? So we've got Tom today, this will probably go live mid-November. Okay. I've got, let me get my schedule, I've got, you know, Jack Charlton from Rémy Cointreau. So we filmed that a few weeks ago. I've got two comedians coming up as well. So that's really funny this weekend. Jack Charlton, then Jodie Kidd, she's next week, and then we start the—you're part of season two, basically. Okay, so season two goes live probably mid-November. I mean, Tom Aske is one of the people who make me laugh the most. Honestly, it's so fun. Yeah, like, even when he speaks seriously, he makes me laugh. He makes you laugh, right? Yeah, I look at him and laugh. So last year, I don't know if you know, we drove to Berlin. Yeah, I remember that. I remember that we laughed so hard that I had to stop the car. But we just had to stop because there were like tears on the Autobahn, yeah, going, you know, mad speeds, and it's just like saying we're just cracking jokes, and it's just like we just had to stop. Just tears down, but you did something, you stopped by in a like station eating sandwich. Oh, we'll stop, we did because we went to—you got pretty big. Yeah, yeah, we got pissed, really pissed. We went to Bruges, then we stayed a night in Düsseldorf, which is amazing, and then obviously to Berlin. I mean, I know it's for pre-touch, but if you wanna give it a go.",
+    "visual_description": "In the video key frames, a bartender is seen preparing cocktails with precision and style. The setting is a well-equipped bar, featuring a variety of tools and ingredients. Initially, two elegant cocktail glasses are placed on a bar mat, alongside a mixing glass filled with ice. A jigger is also visible, suggesting precise measurements are being used.\n\nThe bartender, dressed in a formal suit, begins by pouring a clear spirit from a bottle into the mixing glass, indicating the start of the cocktail build. Following this, a small dropper bottle is used to add a concentrated ingredient, possibly bitters, to the mix. The bartender then uses a long, copper bar spoon to stir the ice-filled mixing glass, ensuring the ingredients are well-chilled and blended.\n\nAs the stirring continues, the bartender's movements are deliberate, showcasing expertise in cocktail preparation. After sufficient mixing, a strainer is placed over the mixing glass, and the chilled cocktail is poured into the waiting glasses. The presentation is meticulous, emphasizing the clarity and elegance of the final drink.\n\nThroughout the process, the bar's ambiance is enhanced by the presence of various bottles and a warm, inviting backdrop. The focus remains on the craftsmanship involved in creating the perfect cocktail, with each step carefully executed to achieve a refined and balanced beverage.",
+    "summary": "The audio captures a behind-the-scenes conversation about scheduling content for upcoming social media posts. It mentions various personalities and brands, including Jack Charlton from Rémy Cointreau and Jodie Kidd, and discusses the fun experiences with Tom Aske. The dialogue is informal and focuses on planning and anecdotes. In contrast, the visuals show a bartender expertly preparing a cocktail in a sophisticated bar setting. The focus is on the precision and craftsmanship involved in cocktail making, highlighting the use of specific tools and techniques to achieve a refined beverage. The audio and visuals tell different stories, with the audio focusing on scheduling and anecdotes, and the visuals on the cocktail preparation process.",
+    "entities": {
+      "people": [
+        "Jack Charlton",
+        "Jodie Kidd",
+        "Tom Aske"
+      ],
+      "brands": [
+        "Rémy Cointreau"
+      ],
+      "restaurants": [],
+      "hotels": [],
+      "cocktails": [],
+      "ingredients": [],
+      "locations": [
+        "Berlin",
+        "Bruges",
+        "Düsseldorf"
+      ]
+    },
+    "topics": [
+      "content scheduling",
+      "cocktail preparation"
+    ],
+    "intent": {
+      "recipe": false,
+      "storytelling": true,
+      "education": false,
+      "case_study": false,
+      "opinion": false
+    },
+    "audio_visual_divergence": true,
+    "audio_focus_summary": "The transcript involves a conversation about scheduling content for social media, mentioning upcoming features with personalities like Jack Charlton and Jodie Kidd, and sharing anecdotes about a trip with Tom Aske.",
+    "visual_focus_summary": "The on-screen action shows a bartender meticulously preparing a cocktail, emphasizing the use of precise measurements and expert techniques in a well-equipped bar setting.",
+    "repurposing_guidance": "Use the dialogue for storytelling and to highlight upcoming collaborations and anecdotes. Use the on-screen action to focus on the cocktail preparation process, showcasing the technique and craftsmanship without inventing ingredients."
+  },
+  "classification": {
+    "pillar": "PROOF",
+    "pillar_confidence": 85,
+    "pillar_scores": {
+      "PROOF": 85,
+      "AUTHORITY": 60,
+      "CRAFT": 75
+    },
+    "format": "Drinks With Fun People",
+    "format_confidence": 80,
+    "format_scores": [
+      {
+        "format": "Drinks With Fun People",
+        "confidence": 80,
+        "description": "The content features anecdotes and mentions of personalities, aligning with celebrity interviews and storytelling."
+      },
+      {
+        "format": "Menu Behind The Menu",
+        "confidence": 70,
+        "description": "The discussion of scheduling and brand collaborations hints at behind-the-scenes insights, but lacks a constraint-based hook."
+      },
+      {
+        "format": "Drink Like A Bartender",
+        "confidence": 65,
+        "description": "The visual focus on cocktail preparation techniques fits the professional techniques theme, but the audio diverges."
+      },
+      {
+        "format": "Behind The Build",
+        "confidence": 60,
+        "description": "The step-by-step cocktail preparation aligns with recipe development, but the audio content diverges."
+      },
+      {
+        "format": "Pair This Dish",
+        "confidence": 50,
+        "description": "While cocktail preparation is shown, there's no direct food pairing involved."
+      },
+      {
+        "format": "Best Bars",
+        "confidence": 45,
+        "description": "Venue ambiance is highlighted, but the content doesn't focus on venue recommendations or rankings."
+      },
+      {
+        "format": "Pour & Polarise",
+        "confidence": 40,
+        "description": "The content lacks a contrarian opinion or direct call to action for DM shares."
+      },
+      {
+        "format": "Red Flag Reel",
+        "confidence": 35,
+        "description": "No discussion of common mistakes or red flags in the content."
+      },
+      {
+        "format": "Hot Tip Drop",
+        "confidence": 30,
+        "description": "The content doesn't provide quick actionable tips."
+      },
+      {
+        "format": "Before You Run Off",
+        "confidence": 25,
+        "description": "The content isn't structured as a quick takeaway or pattern interrupt."
+      }
+    ]
+  },
+  "assets": null,
+  "recommendation": null,
+  "created_at": "2026-06-03T18:50:32.170737+00:00",
+  "updated_at": "2026-06-03T18:51:08.973215+00:00",
+  "processing_seconds": 36.53
+}
