@@ -1,7 +1,7 @@
-import secrets
+import os
 from pathlib import Path
 
-from pydantic import Field
+
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -10,7 +10,7 @@ class Settings(BaseSettings):
 
     admin_username: str = "techtic"
     admin_password: str = "Techtic@18"
-    jwt_secret_key: str = Field(default_factory=lambda: secrets.token_urlsafe(32))
+    jwt_secret_key: str = os.getenv("JWT_SECRET_KEY", "pm-drinks-secure-fallback-key-2026")
     jwt_algorithm: str = "HS256"
     access_token_expire_minutes: int = 1440
 

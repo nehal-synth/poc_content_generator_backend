@@ -11,7 +11,7 @@ __pycache__/
 
 # Local uploads and job data (CRITICAL: Do not upload raw videos)
 storage/uploads/
-stogage/jobs/
+storage/jobs/
 *.mp4
 *.mov
 *.mp3
