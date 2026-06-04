@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 import logging
 
+from app.api.routes.auth import router as auth_router
 from app.api.routes.jobs import router as jobs_router
 from app.config import settings
 from app.services.media.ffmpeg_check import ffmpeg_unavailable_message
@@ -31,6 +32,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+app.include_router(auth_router)
 app.include_router(jobs_router)
 
 

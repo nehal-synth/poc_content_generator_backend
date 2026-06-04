@@ -1,7 +1,10 @@
-from fastapi import APIRouter, BackgroundTasks, File, Form, HTTPException, UploadFile
+from typing import Annotated
+
+from fastapi import APIRouter, BackgroundTasks, Depends, File, Form, HTTPException, UploadFile
 from fastapi.responses import Response
 
 from app.config import settings
+from app.core.auth import get_current_admin
 from app.models.schemas import HealthResponse, JobListResponse, JobRecord, JobSummary, UploadResponse
 from app.services.export.export_service import export_docx, export_pdf
 from app.services.media.ffmpeg_check import ffmpeg_unavailable_message
@@ -34,7 +37,10 @@ async def get_job_by_id(job_id: str) -> JobRecord:
 
 
 @router.delete("/jobs/{job_id}")
-async def remove_job(job_id: str) -> dict[str, str]:
+async def remove_job(
+    job_id: str,
+    _: Annotated[str, Depends(get_current_admin)],
+) -> dict[str, str]:
     if not delete_job(job_id):
         raise HTTPException(status_code=404, detail="Job not found")
     return {"message": "Job deleted"}
@@ -43,6 +49,7 @@ async def remove_job(job_id: str) -> dict[str, str]:
 @router.post("/jobs/upload", response_model=UploadResponse)
 async def upload_content(
     background_tasks: BackgroundTasks,
+    _: Annotated[str, Depends(get_current_admin)],
     file: UploadFile = File(...),
     companion_file: UploadFile | None = File(None),
     notes: str = Form(""),
@@ -109,7 +116,11 @@ async def upload_content(
 
 
 @router.get("/jobs/{job_id}/export")
-async def export_job(job_id: str, format: str = "pdf") -> Response:
+async def export_job(
+    job_id: str,
+    _: Annotated[str, Depends(get_current_admin)],
+    format: str = "pdf",
+) -> Response:
     job = get_job(job_id)
     if not job:
         raise HTTPException(status_code=404, detail="Job not found")
